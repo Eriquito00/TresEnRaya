@@ -10,9 +10,9 @@ Este proyecto es una implementación del clásico juego "Tres en Raya" (también
 - **CSS3**: Estilos y diseño responsivo.
 - **JavaScript**: Lógica del juego y manejo de eventos.
 
-![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png)
-![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png)
-![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png)
+![Ejemplo de pez](./img/html.png)
+![Ejemplo de pez](./img/css.png)
+![Ejemplo de pez](./img/js.png)
 
 Sobretodo tendremos que descargar toda la carpeta que se llama Proyecto 3 en raya. Para poder empezar a jugar necesitaremos ir a la carpeta que hemos descargado /Proyecto 3 en raya/ y abrir "EL ARCHIVO SE LLAMA index.html" una vez ahi empezaremos a jugar al 3 en raya normal i para reiniciar solo tendremos que dale al boton de volver a jugar.
 
